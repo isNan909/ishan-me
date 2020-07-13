@@ -7,7 +7,7 @@ Gist About me
 - 🎤 I am a passonate Product designer and Frontend developer
 - 🛸 Learning everyday, currently learning to master GraphQL n' Prismic
 - 🌋 I’m Always looking for challenging work oppurtunities ahead.
-- 💬 Actively in writing blogs [Check it Out!](https://medium.com/@ishan02016)
+- 💬 Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
 - 📺 Share things I know and learn in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
 - 📬 How to reach me: <a href="mailto:ishan02016@gmail.com">Let's get in touch!</a>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
