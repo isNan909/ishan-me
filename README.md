@@ -27,6 +27,6 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !!
 
-## My Medium Articles
+## My Latest Medium Article
 
 [![](https://github-readme-medium.herokuapp.com/?username=ishan02016)]
