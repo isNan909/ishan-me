@@ -29,4 +29,4 @@ Happy coding !!
 
 ## My Medium Articles
 
-[![Ishan](https://github-readme-medium.herokuapp.com/?username=ishan02016)]
+[Ishan](https://github-readme-medium.herokuapp.com/?username=ishan02016)
