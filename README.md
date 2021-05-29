@@ -5,7 +5,7 @@
 Gist About me
 
 - 🎤 I am a passonate Product designer and Frontend developer
-- 🛸 Learning everyday, currently learning to master GraphQL, React, TS etc ...
+- 🛸 Learning everyday, currently learning to master Javascript/TS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
 - 📺 Share things I know and learn in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
@@ -23,7 +23,9 @@ Gist About me
 
 ###
 
-I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I like front-end development with React/Gatsby/Vue/TS/Redwood and sometimes Node. I love trying out new technologies and update with modern tools helping our lives more easier.
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I like front-end development with React/Gatsby/Next/Svelte. I love trying out new technologies and update with modern tools helping our lives more easier.
+
+Currently I am also learning some Python.
 
 Happy coding !!
 
