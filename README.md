@@ -1,4 +1,4 @@
-### Hi there It's me Ish∆n 👋
+### Hi there It's me Ish∆n <img src="./img/wave.gif" width="28">
 
 [![HitCount](http://hits.dwyl.com/ishan-me/ishan-me.svg)](http://hits.dwyl.com/ishan-me/ishan-me)
 
