@@ -11,9 +11,9 @@
 
 ### Other places you can find me
 
-🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
-🐣 [See my Tweet](https://twitter.com/ishan02016)
-🏀 [My Dribbble Shots](https://dribbble.com/ishan-manandhar)
+🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1).
+🐣 [See my Tweet](https://twitter.com/ishan02016).
+🏀 [My Dribbble Shots](https://dribbble.com/ishan-manandhar).
 
 📕 &nbsp;**Latest Blog Posts**
 
