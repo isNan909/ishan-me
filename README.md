@@ -1,7 +1,7 @@
 ### <img src="./img/wave.gif" width="28"> Hi there, it's me Ish∆n.
 
 - 🎤 &nbsp;I am a passonate Product designer and Frontend developer.
-- 🌱 &nbsp;I’m currently learning Python and Solidity.
+- 🌱 &nbsp;I’m currently learning Python.
 - 🌋 &nbsp;I’m always looking for challenging work oppurtunities ahead.
 - 💬 &nbsp;Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
 - 📺 &nbsp;Share things I know and learn in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
