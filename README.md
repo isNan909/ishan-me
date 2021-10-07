@@ -1,6 +1,7 @@
 ### <img src="./img/wave.gif" width="28"> Hi there, it's me Ish∆n.
 
 - 🎤 &nbsp;I am a passonate Product designer and Frontend developer.
+- 😻 Likes working on React, NextJS, TypeScript and JavaScript.
 - 🌱 &nbsp;I’m currently learning Python.
 - 🌋 &nbsp;I’m always looking for challenging work oppurtunities ahead.
 - 💬 &nbsp;Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
