@@ -62,6 +62,12 @@ const myIntroduction = new Person(
 
 ```
 
+  ## Get in touch
+
+- Twitter:      https://twitter.com/ishan02016
+- Youtube:      https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1
+- Linkedin:     https://www.linkedin.com/in/ishan-me/
+- Dribbble:     https://dribbble.com/ishan-manandhar
 
 🛠️ &nbsp;&nbsp;Languages&nbsp;and&nbsp; **Tools**
 
