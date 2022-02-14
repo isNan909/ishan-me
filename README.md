@@ -25,7 +25,7 @@ function Person(
 const myIntroduction = new Person(
   "Ishan Manandhar",
   "ishan-me",
-  "Product designer and Frontend developer",
+  "Product designer and Programmer",
   {
     twitter: "https://twitter.com/ishan02016",
     youtube: "https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw",
@@ -48,7 +48,7 @@ const myIntroduction = new Person(
       "Tweenmax",
       "Redux",
     ],
-    frameworks: ["Express", "React", "Next", "Gatsby"],
+    frameworks: ["Express", "React", "Next"],
     learning: ["Typescript", "Python"],
   },
   [
